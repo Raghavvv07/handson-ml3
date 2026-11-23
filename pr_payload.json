@@ -1,0 +1,6 @@
+{
+  "title": "R33-T021: Synthetic fixture and deterministic split manifest",
+  "head": "student/e26b07f1216",
+  "base": "main",
+  "body": "Adds a synthetic 4×4 grayscale image fixture for the Xavier/He initialization lab, along with a deterministic split manifest and unit tests.\n\n---\n\nThis is a CPU‑only smoke fixture, not intended for real‑world performance claims."
+}
